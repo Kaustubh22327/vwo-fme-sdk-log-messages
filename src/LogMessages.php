@@ -1,6 +1,6 @@
 <?php
 
-namespace vwo;
+namespace wingify;
 
 class LogMessages {
 

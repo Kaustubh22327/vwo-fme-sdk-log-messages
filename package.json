@@ -1,7 +1,7 @@
 {
-  "name": "vwo-fme-sdk-log-messages",
-  "version": "1.6.0",
-  "description": "VWO FME SDK Log Messages at one place",
+  "name": "wingify-fme-sdk-log-messages",
+  "version": "2.0.0",
+  "description": "Wingify FME SDK Log Messages at one place",
   "main": "index.js",
   "scripts": {
     "test": "yarn test"
@@ -12,6 +12,7 @@
   },
   "keywords": [
     "VWO",
+    "Wingify",
     "FME",
     "Logging",
     "SDK"

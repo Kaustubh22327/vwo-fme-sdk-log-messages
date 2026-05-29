@@ -1,15 +1,15 @@
 {
-  "name": "vwo/vwo-fme-sdk-log-messages",
-  "keywords": ["vwo", "fme", "sdk"],
+  "name": "wingify/wingify-fme-sdk-log-messages",
+  "keywords": ["wingify", "fme", "sdk"],
   "license": "Apache-2.0",
   "authors": [{
-    "name": "VWO developers",
+    "name": "Wingify developers",
     "email": "dev@wingify.com"
   }],
   "autoload": {
     "psr-4": {
-        "vwo\\": [ "src/" ]
+        "wingify\\": [ "src/" ]
     }
   },
-  "description": "VWO Feature Experimentation PHP SDK Log Messages"
+  "description": "Wingify Feature Experimentation PHP SDK Log Messages"
 }
