@@ -57,5 +57,8 @@
   "SDK_REENABLED": "SDK is enabled again and updated settings fetched.",
   "FORCE_REFRESH_TRIGGERED": "Force settings refresh triggered by {source} (refresh timestamp: {refreshTs}). Fetching latest settings.",
   "FORCE_REFRESH_COMPLETED": "Force settings refresh completed. SDK is now running with updated settings.",
-  "USAGE_TRACKING_CALL_SENT": "FE track usage call dispatched for Account ID:{accountId}, User ID:{userId}, and feature key:{featureKey}"
+  "USAGE_TRACKING_CALL_SENT": "FE track usage call dispatched for Account ID:{accountId}, User ID:{userId}, and feature key:{featureKey}",
+  "SHUTDOWN_ALREADY_COMPLETED": "Shutdown has already been completed.",
+  "SHUTDOWN_COMPLETED_WITH_FLUSH": "Shutdown completed. Pending batch events have been flushed.",
+  "SHUTDOWN_COMPLETED_WITHOUT_FLUSH": "Shutdown completed."
 }
